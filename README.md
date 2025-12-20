@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soyokaze00
-- 👀 I’m interested in sites/apps
+- 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
