@@ -4,7 +4,7 @@
 🐍 I'm currently learning Django and building projects with Python, Flutter, and Ollama-based local LLM pipelines
 🌱 I'm currently working on a fully offline Retrieval-Augmented Generation (RAG) system for Persian & English documents
 🤝 I'm looking to collaborate on backend, full-stack, or AI/RAG-related projects
-📫 How to reach me: unikaze2004@gmail.com, linkedin.com/in/nasim-ahmadi-295814432
+📫 How to reach me: unikaze2004@gmail.com, linkedin.com/in/nasim-ahmadi
 
 🛠️ Tech Stack
 Python, Django, Flutter, Dart, SQLite, Celery, Redis, Ollama, Git
